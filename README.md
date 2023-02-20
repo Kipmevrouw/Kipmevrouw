@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**Kipmevrouw/Kipmevrouw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kipmevrouw.kipmevrouw)
 
-Here are some ideas to get you started:
+```python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+class SoftwareSoftwareDeveloper:
+
+    def __init__(self):
+        self.name = "Becky van der Meulen"
+        self.role = "Software Developer"
+        self.language_spoken = ["dutch", "english"]
+
+    def say_hi(self):
+        print("Welkom op mijn github.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 📝 Website
+
+- Mijn portofolio en stageblog: https://Beckyvandermeulen.nl
+- Mijn algemene platform: https://Kipmevrouw.nl
+
+
+
+## 🔧 Mijn tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
