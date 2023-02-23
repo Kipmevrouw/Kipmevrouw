@@ -5,7 +5,7 @@
 ```python
 
 
-class SoftwareSoftwareDeveloper:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Becky van der Meulen"
