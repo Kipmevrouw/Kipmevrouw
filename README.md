@@ -1,7 +1,6 @@
 # 👋 Hallo, ik ben Becky van der Meulen!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kipmevrouw.kipmevrouw)
-
 ```javascript
 class FullStackDeveloper {
   constructor() {
@@ -31,6 +30,7 @@ me.sayHi();
 ## 🔧 Mijn tools
 
 <!-- Framework -->
+```
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
 <!-- Languages -->
