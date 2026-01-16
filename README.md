@@ -1,36 +1,45 @@
-# Hello there 👋
+# 👋 Hallo, ik ben Becky van der Meulen!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kipmevrouw.kipmevrouw)
 
-```python
+```javascript
+class FullStackDeveloper {
+  constructor() {
+    this.name = "Becky van der Meulen";
+    this.age = 22;
+    this.location = "Amsterdam";
+    this.role = "Fullstack Developer";
+    this.favoriteFramework = "React";
+    this.languages = ["JavaScript", "PHP", "SQL", "JSON", "HTML", "CSS"];
+    this.tools = ["Node.js", "Git", "VS Code", "API's", "Databases"];
+  }
 
+  sayHi() {
+    console.log("Welkom op mijn GitHub!");
+  }
+}
 
-class SoftwareDeveloper:
-
-    def __init__(self):
-        self.name = "Becky van der Meulen"
-        self.role = "Software developer / Systeembeheerder"
-        self.language_spoken = ["dutch", "english"]
-
-    def say_hi(self):
-        print("Welkom op mijn github.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
+const me = new FullStackDeveloper();
+me.sayHi();
 
 ## 📝 Website
 
-- Mijn portofolio en stageblog: https://Beckyvandermeulen.nl
-- Mijn algemene platform: https://Kipmevrouw.nl
-
+- Mijn persoonlijke website (soon): https://Beckyvandermeulen.nl
+- Mijn ... website (soon): 
 
 
 ## 🔧 Mijn tools
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FCode-PHP-informational%253Fstyle%253Dflat%2526logo%253D%2526logoColor%253Dwhite%2526color%253D%3Fstyle%3Dflat%26logo%3Dphp%26color%3D6aa6f8?style=flat&logo=php&logoColor=white&label=Code&color=6aa6f8
-)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![JSON](https://img.shields.io/badge/Data-JSON-informational?style=flat&logo=json&logoColor=white&color=6aa6f8)
+![HTML](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![CSS](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![API](https://img.shields.io/badge/Tech-REST_API-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
+![Database](https://img.shields.io/badge/Tech-Databases-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+
