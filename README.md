@@ -30,16 +30,16 @@ me.sayHi();
 
 ## 🔧 Mijn tools
 
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
-![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![JSON](https://img.shields.io/badge/Data-JSON-informational?style=flat&logo=json&logoColor=white&color=6aa6f8)
-![HTML](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![CSS](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
-![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![API](https://img.shields.io/badge/Tech-REST_API-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
-![Database](https://img.shields.io/badge/Tech-Databases-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![API](https://img.shields.io/badge/API-005571?style=flat&logo=fastapi&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4479A1?style=flat&logo=mysql&logoColor=white)
 
